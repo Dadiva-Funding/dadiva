@@ -2,7 +2,8 @@
 
 A quadratic funding platform for projects in Brazil.
 
-![SimpleGrantsBR](https://via.placeholder.com/800x400?text=SimpleGrantsBR)
+![Dádiva](https://github.com/user-attachments/assets/6c69f570-e762-4186-bb2d-4b951a88aee4)
+
 
 ---
 
