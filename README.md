@@ -99,28 +99,28 @@ npm run db:studio
 
 ### 📋 Backlog
 
-- [ ] **🌎 Interface Translation**
+**🌎 Interface Translation**
   - [ ] Translate UI components into Portuguese
   - [ ] Adapt texts for Brazilian context
   - [ ] Implement i18n system
 
-- [ ] **💰 PIX Integration**
+**💰 PIX Integration**
   - [ ] Add PIX QR Code generation
   - [ ] Implement webhook for payments
   - [ ] Develop payment status screen
   - [ ] Configure timeout and notifications
 
-- [ ] **🇧🇷 Local Adaptations**
+**🇧🇷 Local Adaptations**
   - [ ] Add fields for CPF/CNPJ
   - [ ] Implement validation for Brazilian documents
   - [ ] Adapt forms to Brazilian standards
 
-- [ ] **✅ Project Verification**
+**✅ Project Verification**
   - [ ] Create simplified verification flow
   - [ ] Implement validation of documents
   - [ ] Develop approval dashboard
 
-- [ ] **📈 Enhancements from Dádiva Funding Original Repository**
+**📈 Enhancements from Dádiva Funding Original Repository**
   - [ ] Review features from the original Dádiva repository
   - [ ] Evaluate functionalities for potential integration
   - [ ] Integrate additional security and optimization improvements
